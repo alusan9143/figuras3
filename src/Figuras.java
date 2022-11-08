@@ -15,4 +15,7 @@ public class Rectangulo {
         return (lado1*2)+(lado2*2);
     }
 
+    public String toString() {
+        return lado1;
+    }
 }
